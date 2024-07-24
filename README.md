@@ -1,1 +1,2 @@
 # DiabetesPrediction
+This study explores the application of machine learning algorithms to predict diabetes using the Pima Indians Diabetes Database. We compare the performance of various models, including artificial neural networks (ANN), k-means clustering, Naive Bayes, and decision trees. The models are evaluated using metrics such as accuracy, precision, recall, and F1-score. Our results demonstrate the potential of machine learning in medical diagnostics and highlight the importance of data quality and feature selection. 
